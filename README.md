@@ -1,0 +1,2 @@
+# How-Can-You-Prepare-Effectively-for-the-Microsoft-AB-731-AI-Transformation-Leader-Exam-
+Preparing for the Microsoft AB-731 exam requires a solid understanding of AI strategy, responsible AI, Microsoft Copilot, Azure AI services, and business transformation concepts. Focus on official learning resources, hands-on practice, and scenario-based questions to build confidence and strengthen exam readiness.
